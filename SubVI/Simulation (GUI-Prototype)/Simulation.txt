@@ -1,1 +1,1 @@
-
+The folder Simulation (GUI-Prototype) or simply simulation contains data for the user interface and the conection with a physical conveyor belt system that integrates Arduino (LINX), myRio a gearmotor an a TCS230 sensor
