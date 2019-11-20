@@ -13,3 +13,5 @@ Create a functional prototype of a  conveyor belt implementing MyRio, Arduino an
 Implement a PWM control using MyRio Daq to control a gearmotor
 
 Implement a system for color identification using a TCS230 sensor and Arduino (LINX project for LabVIEW)
+
+Project Documentation
