@@ -1,1 +1,1 @@
-
+In this folder is where the audio (voice) database is located
